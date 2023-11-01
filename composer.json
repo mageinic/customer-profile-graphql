@@ -1,6 +1,6 @@
 {
     "name": "mageinic/customerprofilegraphql",
-    "description": "Customer Profile GraphQl It will allows user add and remove profile image.",
+    "description": "Customer Profile GraphQL is a part of MageINIC Customer Profile extension that adds GraphQL features. This extension extends Customer Profile definitions.",
     "require": {
         "php": "^8.0",
         "mageinic/core": "1.0.*",
@@ -11,7 +11,8 @@
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
-        "Commercial"
+        "OSL-3.0",
+        "AFL-3.0"
     ],
     "authors": [
         {
