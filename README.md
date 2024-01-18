@@ -7,7 +7,7 @@
 Run the following command in Magento 2 root folder:
 
 ```
-composer require mageinic/customerprofilegraphql
+composer require mageinic/customer-profile-graphql
 
 php bin/magento maintenance:enable
 php bin/magento setup:upgrade
@@ -22,7 +22,7 @@ Magento 2 Customer Profile GraphQL requires installing [MageINIC Customer Profil
 
 **Or Install via composer [Recommend]**
 ```
-composer require mageinic/customerprofile
+composer require mageinic/customer-profile
 ```
 
 ## 2. How to use

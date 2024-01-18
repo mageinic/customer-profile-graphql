@@ -1,10 +1,10 @@
 {
-    "name": "mageinic/customerprofilegraphql",
+    "name": "mageinic/customer-profile-graphql",
     "description": "Customer Profile GraphQL is a part of MageINIC Customer Profile extension that adds GraphQL features. This extension extends Customer Profile definitions.",
     "require": {
         "php": "^8.0",
         "mageinic/core": "1.0.*",
-        "mageinic/customerprofile": "1.0.*",
+        "mageinic/customer-profile": "1.0.*",
         "magento/module-graph-ql": "100.4.*",
         "magento/module-customer" : "103.0.*"
     },
